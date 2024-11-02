@@ -1,6 +1,6 @@
 {
-  "name": "construct-style-sheets-polyfill",
-  "version": "3.0.6",
+  "name": "@floogulinc/construct-style-sheets-polyfill",
+  "version": "3.2.0",
   "description": "Constructible style sheets/adopted style sheets polyfill",
   "main": "dist/adoptedStyleSheets.js",
   "module": "dist/adoptedStyleSheets.js",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calebdwilliams/construct-style-sheets.git"
+    "url": "git+https://github.com/floogulinc/construct-style-sheets.git"
   },
   "contributors": [
     "Caleb D. Williams <caleb.d.williams@gmail.com>",
@@ -34,9 +34,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/calebdwilliams/construct-style-sheets/issues"
+    "url": "https://github.com/floogulinc/construct-style-sheets/issues"
   },
-  "homepage": "https://github.com/calebdwilliams/construct-style-sheets#readme",
+  "homepage": "https://github.com/floogulinc/construct-style-sheets#readme",
   "overrides": {
     "jasmine-core": "$jasmine-core"
   },
